@@ -11,7 +11,7 @@ echo
 set -e
 
 BL=$PWD/treble_aosp
-TD="android-15.0"
+TD="a15-slim"
 
 initRepos() {
     echo "--> Getting latest upstream version"
